@@ -1,0 +1,6 @@
+## Interface: 11304
+## Title: Hello, World!
+## Notes: Test
+
+Libs\embeds.xml
+Test.lua
